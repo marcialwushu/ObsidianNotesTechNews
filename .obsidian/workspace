@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "b14aed94fa9af599",
+    "type": "split",
+    "children": [
+      {
+        "id": "0902b6496ba43733",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03b86c537ac4db04",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7652b49b7e63f8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b884f210b92cbbf5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9fccfa4dcab7bd06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290
+  },
+  "right": {
+    "id": "6d15a977674d1e71",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6590e2fccc265e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef8c8c8d1b89f651",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "062b11ad534d40b7",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "0902b6496ba43733",
+  "lastOpenFiles": [
+    "README.md",
+    "2022/2022 Calendar.md",
+    "00 RSS/Lifehacker/19-06-2022/When You Should Use Sugar on Your Lawn (and When You Shouldn't).md",
+    "00 RSS/Lifehacker/19-06-2022/Why Do so Many TikTok Influencers Want Us to Do Pilates.md",
+    "00 RSS/Lifehacker/19-06-2022/Caviar Belongs on Potato Chips.md",
+    "00 RSS/Github ApiPix/19-06-2022/Período de Consulta online.md",
+    "00 RSS/Github ApiPix/19-06-2022/Pix Saque troco - pagamento tarifa.md",
+    "00 RSS/Github ApiPix/19-06-2022/QR Code dinâmico pode ser gerado por api proprietária.md",
+    "00 RSS/Github ApiPix/19-06-2022/txid não exibido em alguns bancos.md",
+    "00 RSS/Github ApiPix/19-06-2022/Valor diferente no cobV.md"
+  ]
+}
