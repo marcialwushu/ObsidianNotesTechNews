@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview",
+            "file": "00 RSS/NIST/19-06-2022/The Cornerstone of Cybersecurity – Cryptographic Standards and a 50-Year Evolution.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "00 RSS/NIST/19-06-2022/The Cornerstone of Cybersecurity – Cryptographic Standards and a 50-Year Evolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -88,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,15 +97,15 @@
   },
   "active": "0902b6496ba43733",
   "lastOpenFiles": [
-    "README.md",
-    "2022/2022 Calendar.md",
-    "00 RSS/Lifehacker/19-06-2022/When You Should Use Sugar on Your Lawn (and When You Shouldn't).md",
-    "00 RSS/Lifehacker/19-06-2022/Why Do so Many TikTok Influencers Want Us to Do Pilates.md",
-    "00 RSS/Lifehacker/19-06-2022/Caviar Belongs on Potato Chips.md",
-    "00 RSS/Github ApiPix/19-06-2022/Período de Consulta online.md",
-    "00 RSS/Github ApiPix/19-06-2022/Pix Saque troco - pagamento tarifa.md",
-    "00 RSS/Github ApiPix/19-06-2022/QR Code dinâmico pode ser gerado por api proprietária.md",
-    "00 RSS/Github ApiPix/19-06-2022/txid não exibido em alguns bancos.md",
-    "00 RSS/Github ApiPix/19-06-2022/Valor diferente no cobV.md"
+    "00 RSS/NIST/19-06-2022/The Cornerstone of Cybersecurity – Cryptographic Standards and a 50-Year Evolution.md",
+    "00 RSS/NIST/19-06-2022/The Foundation for Interoperable and Portable Security Automation is Revealed in NIST’s OSCAL Project.md",
+    "00 RSS/NIST/19-06-2022/There’s Still Time to Comment on IoT Cybersecurity Guidance – Send Us Your Feedback Today!.md",
+    "00 RSS/NIST/19-06-2022/NIST Risk Management Framework Team Did Some Spring Cleaning!.md",
+    "00 RSS/NIST/19-06-2022/NIST Launches New International Cybersecurity and Privacy Resources Website.md",
+    "00 RSS/NIST/19-06-2022/Differential Privacy  Future Work &amp; Open Challenges.md",
+    "00 RSS/NIST/19-06-2022/Cybersecurity Education and Workforce Development  Employer-Driven and Learner-Centered.md",
+    "00 RSS/NIST/19-06-2022/Cybersecurity Awareness Month  Fight the Phish.md",
+    "00 RSS/NIST/19-06-2022/Cybersecurity Awareness Month  Explore. Experience. Share.md",
+    "00 RSS/NIST/19-06-2022/Cybersecurity Awareness Month  Cybersecurity First.md"
   ]
 }
