@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00 RSS/YouTube/ReactConf AU/25-06-2022/(Proto)typing innovation in BBC News — James Dooley.md",
+            "file": "00 RSS/YouTube/SANS Offensive Operations/26-06-2022/Introducing SANS Offensive Operations - Stephen Sims - SANS Institute.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 RSS/YouTube/ReactConf AU/25-06-2022/(Proto)typing innovation in BBC News — James Dooley.md",
+                "file": "00 RSS/YouTube/SANS Offensive Operations/26-06-2022/Introducing SANS Offensive Operations - Stephen Sims - SANS Institute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,20 +93,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 395,
     "collapsed": true
   },
   "active": "0902b6496ba43733",
   "lastOpenFiles": [
-    "00 RSS/YouTube/ReactConf AU/25-06-2022/(Proto)typing innovation in BBC News — James Dooley.md",
-    "00 RSS/YouTube/ReactConf AU/25-06-2022/The Value of Open Source — Jed Watson.md",
-    "00 RSS/YouTube/ReactConf AU/25-06-2022/Themeability is the path to dark mode — Diana Mounter.md",
-    "00 RSS/YouTube/ReactConf AU/25-06-2022/Redux Connect vs Redux Hooks  A play — Terence Jeong.md",
-    "00 RSS/YouTube/ReactConf AU/25-06-2022/How to teach an old dev new tech  Learning React as a senior developer — Trent Willis.md",
-    "00 RSS/YouTube/ReactConf AU/25-06-2022/A GraphQL Survival Kit — Petra Gulicher.md",
-    "00 RSS/YouTube/ReactConf AU/25-06-2022/Targeted extensibility  Lessons learned from building Atlaskit — Charles Lee.md",
-    "00 RSS/YouTube/ReactConf AU/25-06-2022/10 x your teamwork through pair programming — Michael Milewski & Selena Small.md",
-    "00 RSS/YouTube/ReactConf AU/25-06-2022/Building with Monorepos — Mitchell Hamilton.md",
-    "00 RSS/YouTube/ReactConf AU/25-06-2022/Rethinking Design Practices — Mark Dalgleish.md"
+    "00 RSS/YouTube/SANS Offensive Operations/26-06-2022/Introducing SANS Offensive Operations - Stephen Sims - SANS Institute.md",
+    "00 RSS/YouTube/SANS Offensive Operations/26-06-2022/Pen Testing Smart Contracts to Stop The Next Poly Network Hack.md",
+    "00 RSS/YouTube/SANS Offensive Operations/26-06-2022/Pen Testers are Teachers.md",
+    "00 RSS/YouTube/SANS Offensive Operations/26-06-2022/Panel - Practical Cyber Range Tips from Experienced Builders and Users - SANS HackFest Summit 2020.md",
+    "00 RSS/YouTube/SANS Offensive Operations/26-06-2022/Panel - Maximizing the Value of Training in Cyber Ranges - SANS HackFest Summit & Ranges 2020.md",
+    "00 RSS/YouTube/SANS Offensive Operations/26-06-2022/Panel - Best Practices for a Persistent Cyber Training Environment PCTE - HackFest Summit 2020.md",
+    "00 RSS/YouTube/SANS Offensive Operations/26-06-2022/Identifying Novel Malware at Scale w  Pedram Amini - SANS HackFest & Ranges Summit 2020.md",
+    "00 RSS/YouTube/SANS Offensive Operations/26-06-2022/Hardware Hacking  Intro to Programming Micro Controllers w  Mick Douglas   - SANS HackFest 2020.md",
+    "00 RSS/YouTube/SANS Offensive Operations/26-06-2022/Hunting Logic Attacks - A Peak At SEC552  Bug Bounties & Responsible Disclosure, vol 2.md",
+    "00 RSS/YouTube/SANS Offensive Operations/26-06-2022/Hardware Hacking  Intro to Programming Micro Controllers - SANS Pen Test HackFest Summit 2020.md"
   ]
 }

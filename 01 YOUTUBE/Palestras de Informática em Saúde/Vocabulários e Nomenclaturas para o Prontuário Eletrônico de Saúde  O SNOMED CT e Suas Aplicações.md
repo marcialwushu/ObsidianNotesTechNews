@@ -1,0 +1,13 @@
+---
+link: https://www.youtube.com/watch?v=aIT6oYeAtIs
+author: 
+   
+published: 2022-04-30T22:36:00
+tags: []
+---
+# Highlights
+
+
+---
+# Vocabulários e Nomenclaturas para o Prontuário Eletrônico de Saúde: O SNOMED CT e Suas Aplicações
+Palestra ministrada pela Profa.Dra. Maria Cristiane Barbosa Galvão, da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo, Brasil, no IV Ciclo de Seminários de Tecnologias de Informação em Saúde, organizado pela Diretoria de Educação e Capacitação Profissional da Sociedade Brasileira de Informática em Saúde (SBIS), em maio de 2013. Resumo da Palestra: O uso adequado de termos, conceitos e suas respectivas relações é essencial para que as mensagens produzidas no contexto da assistência em saúde tenham precisão, possam ser recuperadas, intercambiadas, comparadas e compreendidas sincronicamente e diacronicamente. Para o uso adequado dos produtos terminológicos é preciso reconhecer seus objetivos, funções e estruturas. Pelo exposto, essa palestra apresentará a Nomenclatura Sistematizada de Medicina -- Termos Clínicos (Systematized Nomenclature of Medicine-Clinical Terms SNOMED-CT), diferenciando-a de vocabulários criados com outras finalidades como a Classificação Estatística Internacional de Doenças e Problemas Relacionados à Saúde (CID10), os Descritores em Ciências da Saúde (DECS) e os Medical Subject Headings (MESH). No Brasil, desde agosto de 2011, a SNOMED-CT integra o Catálogo de Padrões de Interoperabilidade de Informações de Sistemas de Saúde a ser empregado no Sistema Único de Saúde, nos níveis Municipal, Distrital, Estadual e Federal, e nos sistemas privados e do setor de saúde suplementar.. Curriculo da Palestrante: Profa. Dra. Maria Cristiane Barbosa Galvão Bacharel em Biblioteconomia e Documentação e mestre em Ciências da Comunicação pela Escola de Comunicações e Artes da Universidade de São Paulo, doutorado em Ciência da Informação pela Universidade de Brasília com estágio na Université de Montréal, e pós-doutorado em Medicina Baseada em Evidência pela Faculty of Medicine da McGill University. Docente do Departamento de Medicina Social da Faculdade de Medicina de Ribeirão Preto da USP. Suas pesquisas e atividades voltam-se para a informação e saúde. Na graduação, é responsável pelas seguintes disciplinas da USP: Documentação em saúde; Comunicação e divulgação dos conhecimentos em saúde; Fontes de informação em saúde; Terminologias em saúde; e Tecnologias dainformação em saúde. Na pós-graduação,colabora nas disciplinas da UNICAMP: Tecnologia e informação em saúde; e Métodos de pesquisa para engenharia de computação. Lattes: http://lattes.cnpq.br/9163421021115381

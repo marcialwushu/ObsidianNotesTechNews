@@ -1,0 +1,13 @@
+---
+link: https://www.youtube.com/watch?v=hLuwkBUHeUs
+author: 
+   
+published: 2022-05-29T22:13:00
+tags: []
+---
+# Highlights
+
+
+---
+# Telessaúde na Atenção Primária: Aplicações e Estratégias de Sucesso - Profa Magdala A  Novaes
+Palestra ministrada no II Ciclo de Seminários de Tecnologias de Informação em Saúde, promovido pela Diretoria de Educação e Capacitação Profissional da Sociedade Brasileira de Informática em Saúde, em junho de 2011. Profa.Dr. Magdala de Araújo Novaes, coordenadora do Núcleo de Tecnologias em Saúde (NUTES), RUTE-UFPE e Programa de Telessaúde Brasil em Pernambuco. Resumo da palestra: O uso da telessaúde ou telemedicina nos serviços públicos de saúde vem crescendo a cada ano no Brasil. Em outros países não é diferente, a prática da telessaúde tem ampliado a oferta de saúde a comunidades isoladas ou desprovidas de serviços especializados. O suporte remoto as equipes que atuam na Estratégia de Saúde da Família no Brasil tem sido fundamental para melhorar a resolubilidade destas equipes, diminuir deslocamentos de pacientes e profissionais na rede e custos no sistema público de saúde. Mas o que é telessaúde? uma tecnologia ou um serviço? Vamos explorar as diferentes modalidades desta prática, seus recursos e principais atores, e estratégias adotadas para implantação da telessaúde na atenção primária no Brasil. O Programa Telessaúde Brasil será utilizado para exemplificar os diferentes cenários de uso. Discutir os diferentes impactos da prática da telessaúde pode ajudar a melhor desenvolver sua estratégia local de utilização para uma boa relação custo efetividade, além de entender seus limites e benefícios para o sistema de saúde como um todo. Currículo do palestrante: Profa.Dra.Magdala de Araújo Novaes Doutora em Bioinformática pela Université D´Aix-Marseille II (França), Centre National de la Recherche Scientifique em 1993, especializada em informática aplicada às organizações pela Université de Montpellier I (França), e graduada em Ciência da Computação pela Universidade Federal de Pernambuco (UFPE) em 1987 (Brasil). É professora associada de Informática em Saúde do Departamento de Medicina Clínica, Coordenadora do Grupo de Pesquisa de Tecnologias da Informação em Saúde (TIS) e do Núcleo de Telessaúde (NUTES) da UFPE. Área de atuação: tecnologias da informação e das comunicações em saúde. Linhas de pesquisa: sistemas de informação em saúde, telemedicina e telessaúde, educação à distância em saúde, prontuário eletrônico do paciente, Internet e saúde. É membro titular e vice-presidente da Sociedade Brasileira de Informática em Saúde (SBIS), do Comitê Assessor da Rede Universitária de Telemedicina (RUTE), e da Comissão Permanente de Telessaúde do Ministério da Saúde.

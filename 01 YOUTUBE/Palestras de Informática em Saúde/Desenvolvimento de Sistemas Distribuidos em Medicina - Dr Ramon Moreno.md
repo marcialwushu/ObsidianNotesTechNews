@@ -1,0 +1,13 @@
+---
+link: https://www.youtube.com/watch?v=QqId20aupOg
+author: 
+   
+published: 2022-01-12T23:10:00
+tags: []
+---
+# Highlights
+
+
+---
+# Desenvolvimento de Sistemas Distribuidos em Medicina - Dr Ramon Moreno
+Palestra ministrada no II Ciclo de Seminários de Tecnologias de Informação em Saúde, promovido pela Diretoria de Educação e Capacitação Profissional da Sociedade Brasileira de Informática em Saúde, em abril de 2011; Dr. Ramon Moreno, pesquisador da divisão de informática do Instituto do Coração do Hospital das Clínicas da Universidade de São Paulo (USP). Resumo da palestra: Sistemas distribuídos são compostos por uma coleção de computadores autônomos conectados através de uma rede e de um software de interligação. Esta conexão permite que os computadores possam compartilhar recursos e coordenar atividades de forma a realizar uma tarefa comum. Existem vários desafios envolvidos no desenvolvimento de sistemas distribuídos, como: heterogeneidade de hardware e software, segurança, escalabilidade, tratamento de falhas, concorrência e transparência. Ao longo do tempo foram desenvolvidas várias tecnologias para a elaboração de sistemas distribuídos e que têm sido aplicadas, com maior ou menor sucesso, na área da Saúde. Especificações como o CIAS (Clinical Image Access System) e COAS (Clinical Observation Access System) ajudaram a determinar a evolução atual dos padrões de trocas de informações em Medicina. Atualmente, o uso de sistemas distribuídos em grid computacional é uma área promissora para aplicações médicas, uma vez que permite o processamento de dados extremamente volumosos e o compartilhamento de dados entre Instituições fisicamente separadas, mas com interesses comuns. Nesta apresentação serão apresentados conceitos de Sistemas Distribuídos e algumas tecnologias e soluções aplicadas para a área de Saúde. Serão apresentadas, também, algumas aplicações desenvolvidas no Instituto do Coração (InCor) - HCFMUSP que utilizam sistemas distribuídos. Currículo do palestrante: Dr. Ramon Alfredo Moreno Graduado pela Escola de Engenharia Elétrica de São Carlos (EESC-USP) em 1998 e Doutor em Engenharia Elétrica pela Escola Politécnica (EPUSP-2005). Desde 2002 é pesquisador do Instituto do Coração (InCor)-HCFMUSP na Unidade de Pesquisa e Desenvolvimento (P&D) do Serviço de Informática (Sinfo). Tem 10 anos de experiência com padrões abertos, CORBA, DICOM, WEB e programação Java. Desenvolveu e implementou o servidor DICOM, utilizado atualmente do Instituto do Coração, e foi coordenador de um projeto OpenSource, chamado MiniWEBPACS. Tem diversas publicações na area de Informática em Saúde e Engenharia Biomédica. Curriculo Lattes: http://lattes.cnpq.br/4556786837583818
