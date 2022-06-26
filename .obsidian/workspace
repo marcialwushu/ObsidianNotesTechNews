@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00 RSS/NIST/19-06-2022/The Cornerstone of Cybersecurity – Cryptographic Standards and a 50-Year Evolution.md",
+            "file": "00 RSS/YouTube/ReactConf AU/25-06-2022/(Proto)typing innovation in BBC News — James Dooley.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 RSS/NIST/19-06-2022/The Cornerstone of Cybersecurity – Cryptographic Standards and a 50-Year Evolution.md",
+                "file": "00 RSS/YouTube/ReactConf AU/25-06-2022/(Proto)typing innovation in BBC News — James Dooley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,19 +93,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "0902b6496ba43733",
   "lastOpenFiles": [
-    "00 RSS/NIST/19-06-2022/The Cornerstone of Cybersecurity – Cryptographic Standards and a 50-Year Evolution.md",
-    "00 RSS/NIST/19-06-2022/The Foundation for Interoperable and Portable Security Automation is Revealed in NIST’s OSCAL Project.md",
-    "00 RSS/NIST/19-06-2022/There’s Still Time to Comment on IoT Cybersecurity Guidance – Send Us Your Feedback Today!.md",
-    "00 RSS/NIST/19-06-2022/NIST Risk Management Framework Team Did Some Spring Cleaning!.md",
-    "00 RSS/NIST/19-06-2022/NIST Launches New International Cybersecurity and Privacy Resources Website.md",
-    "00 RSS/NIST/19-06-2022/Differential Privacy  Future Work &amp; Open Challenges.md",
-    "00 RSS/NIST/19-06-2022/Cybersecurity Education and Workforce Development  Employer-Driven and Learner-Centered.md",
-    "00 RSS/NIST/19-06-2022/Cybersecurity Awareness Month  Fight the Phish.md",
-    "00 RSS/NIST/19-06-2022/Cybersecurity Awareness Month  Explore. Experience. Share.md",
-    "00 RSS/NIST/19-06-2022/Cybersecurity Awareness Month  Cybersecurity First.md"
+    "00 RSS/YouTube/ReactConf AU/25-06-2022/(Proto)typing innovation in BBC News — James Dooley.md",
+    "00 RSS/YouTube/ReactConf AU/25-06-2022/The Value of Open Source — Jed Watson.md",
+    "00 RSS/YouTube/ReactConf AU/25-06-2022/Themeability is the path to dark mode — Diana Mounter.md",
+    "00 RSS/YouTube/ReactConf AU/25-06-2022/Redux Connect vs Redux Hooks  A play — Terence Jeong.md",
+    "00 RSS/YouTube/ReactConf AU/25-06-2022/How to teach an old dev new tech  Learning React as a senior developer — Trent Willis.md",
+    "00 RSS/YouTube/ReactConf AU/25-06-2022/A GraphQL Survival Kit — Petra Gulicher.md",
+    "00 RSS/YouTube/ReactConf AU/25-06-2022/Targeted extensibility  Lessons learned from building Atlaskit — Charles Lee.md",
+    "00 RSS/YouTube/ReactConf AU/25-06-2022/10 x your teamwork through pair programming — Michael Milewski & Selena Small.md",
+    "00 RSS/YouTube/ReactConf AU/25-06-2022/Building with Monorepos — Mitchell Hamilton.md",
+    "00 RSS/YouTube/ReactConf AU/25-06-2022/Rethinking Design Practices — Mark Dalgleish.md"
   ]
 }
