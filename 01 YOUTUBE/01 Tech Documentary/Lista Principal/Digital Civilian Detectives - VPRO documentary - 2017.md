@@ -1,0 +1,13 @@
+---
+link: https://www.youtube.com/watch?v=NsnfklNmgs0
+author: 
+   
+published: 2022-06-28T03:17:00
+tags: []
+---
+# Highlights
+
+
+---
+# Digital Civilian Detectives - VPRO documentary - 2017
+What can you do against regimes and armies that provide no or little information about incidents, bombings, torture or abuses? The citizen detective finds out by himself. With the tools and data available in the digital domain, citizens are very well able to reconstruct what happened and thus discover ‘the truth’. They’re the new eyes and ears of democracy. Organisations of citizen detectives, internet investigators and blogging experts. Every day, they gather new and relevant information from everything going around the worldwide web and social media. Data about geolocations, acts of violence, the people involved, destruction, airstrikes, torture, shipping routes, weaponry, targets hit and the number of victims. By connecting the data in this multitude of publically available evidence (open source intelligence), the digital citizen journalist network Bellingcat has discovered more about the downing of flight MH17 than the national commission of inquiry. Originally broadcasted by VPRO in 2017. © VPRO Backlight March 2017 On VPRO broadcast you will find nonfiction videos with English subtitles, French subtitles and Spanish subtitles, such as documentaries, short interviews and documentary series. VPRO Documentary publishes one new subtitled documentary about current affairs, finance, sustainability, climate change or politics every week. We research subjects like politics, world economy, society and science with experts and try to grasp the essence of prominent trends and developments. Subscribe to our channel for great, subtitled, recent documentaries. Visit additional youtube channels bij VPRO broadcast: VPRO Broadcast, all international VPRO programs: https://www.youtube.com/VPRObroadcast VPRO DOK, German only documentaries: https://www.youtube.com/channel/UCBi0VEPANmiT5zOoGvCi8Sg VPRO Metropolis, remarkable stories from all over the world: https://www.youtube.com/user/VPROmetropolis VPRO World Stories, the travel series of VPRO: https://www.youtube.com/VPROworldstories VPRO Extra, additional footage and one off's: https://www.youtube.com/channel/UCTLrhK07g6LP-JtT0VVE56A www.VPRObroadcast.com Credits: Director: Shuchen Tan English, French and Spanish subtitles: Ericsson. French and Spanish subtitles are co-funded by European Union.

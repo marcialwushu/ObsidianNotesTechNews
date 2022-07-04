@@ -1,0 +1,13 @@
+---
+link: https://www.youtube.com/watch?v=NdZxI3nFVJs
+author: 
+   
+published: 2022-05-20T02:39:00
+tags: []
+---
+# Highlights
+
+
+---
+# Digital Amnesia - VPRO documentary - 2014
+Our memory is dissipating. Hard drives only last five years, a web page is forever changing and there’s no machine left that reads 15-year old floppy disks. Digital data is vulnerable. Yet entire libraries are shredded and lost to budget cuts, because we assume everything can be found online. But is that really true? For the first time in history, we have the technological means to save our entire past, yet it seems to be going up in smoke. Will we suffer from collective amnesia? This VPRO Backlight documentary tracks down the amnesiac zeitgeist starting at the Royal Tropical Institute in Amsterdam, whose world-famous 250-year old library was lost to budget cuts. The 400.000 Books were saved from the shredder by Ismail Serageldin, director of the world-famous Library of Alexandria, who is turning the legendary library of classical antiquity into a new knowledge hub for the digital world. Originally broadcasted by VPRO in 2014. © VPRO Backlight September 2014 On VPRO broadcast you will find nonfiction videos with English subtitles, French subtitles and Spanish subtitles, such as documentaries, short interviews and documentary series. VPRO Documentary publishes one new subtitled documentary about current affairs, finance, sustainability, climate change or politics every week. We research subjects like politics, world economy, society and science with experts and try to grasp the essence of prominent trends and developments. Subscribe to our channel for great, subtitled, recent documentaries. Visit additional youtube channels bij VPRO broadcast: VPRO Broadcast, all international VPRO programs: https://www.youtube.com/VPRObroadcast VPRO DOK, German only documentaries: https://www.youtube.com/channel/UCBi0VEPANmiT5zOoGvCi8Sg VPRO Metropolis, remarkable stories from all over the world: https://www.youtube.com/user/VPROmetropolis VPRO World Stories, the travel series of VPRO: https://www.youtube.com/VPROworldstories VPRO Extra, additional footage and one off's: https://www.youtube.com/channel/UCTLrhK07g6LP-JtT0VVE56A www.VPRObroadcast.com Credits: Director Bregtje van der Haak Research: Gerko Wessel Producer: Marie Schutgens Commissioning Editors: Henneke Hagen/ Frank Wiering English, French and Spanish subtitles: Ericsson. French and Spanish subtitles are co-funded by European Union.
