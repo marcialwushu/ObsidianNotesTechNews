@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "04 Secure Code/SEI CERT C Coding Standard/01 Capitulo/1 Front Matter - SEI CERT C Coding Standard - Confluence.md",
+            "file": "05 Social Networks/Twitter/Your Twitters.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Secure Code/SEI CERT C Coding Standard/01 Capitulo/1 Front Matter - SEI CERT C Coding Standard - Confluence.md",
+                "file": "05 Social Networks/Twitter/Your Twitters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "0902b6496ba43733",
   "lastOpenFiles": [
-    "04 Secure Code/SEI CERT C Coding Standard/01 Capitulo/1 Front Matter - SEI CERT C Coding Standard - Confluence.md",
-    "04 Secure Code/SEI CERT C Coding Standard.md",
-    "04 Secure Code/SEI CERT C Coding Standard/01 Capitulo/Conteudo/Acknowledgments - SEI CERT C Coding Standard - Confluence.md",
-    "04 Secure Code/SEI CERT C Coding Standard/01 Capitulo/Conteudo/Taint Analysis - SEI CERT C Coding Standard - Confluence.md",
-    "04 Secure Code/SEI CERT C Coding Standard/01 Capitulo/Conteudo/Usage - SEI CERT C Coding Standard - Confluence.md",
-    "04 Secure Code/SEI CERT C Coding Standard/01 Capitulo/Conteudo/System Qualities - SEI CERT C Coding Standard - Confluence.md",
-    "04 Secure Code/SEI CERT C Coding Standard/01 Capitulo/Conteudo/Tool Selection and Validation - SEI CERT C Coding Standard - Confluence.md",
-    "04 Secure Code/SEI CERT C Coding Standard/01 Capitulo/Conteudo/ISOIEC TS 17961 C Secure Coding Rules - SEI CERT C Coding Standard - Confluence.md",
-    "04 Secure Code/SEI CERT C Coding Standard/01 Capitulo/Conteudo/Scope - SEI CERT C Coding Standard - Confluence.md",
-    "04 Secure Code/SEI CERT C Coding Standard/01 Capitulo/Conteudo/Introduction - SEI CERT C Coding Standard - Confluence.md"
+    "06 OSINT/SOCIAL MEDIA.md",
+    "06 OSINT/IMAGE AND VIDEO VERIFICATION.md",
+    "Templates/FeddRssTemplate.md",
+    "Templates/LinkedinResponse.md",
+    "2022/2022 Calendar.md",
+    "07 Articles/Fraude de identidade sintética.md",
+    "07 Articles/CFPB Discusses Consumer Finance Data, Sets Priorities.md",
+    "07 Articles/10 dos livros favoritos de Bill Gates sobre tecnologia.md",
+    "01 YOUTUBE/Mobiconf 2019/Mobiconf 2019 - Elisa Coluccia Information overload  the Era of Push Notifications.md",
+    "01 YOUTUBE/Mobiconf 2019/Mobiconf 2019 - Clifton Lin Navigating dramas of the 3 legged stool.md"
   ]
 }
