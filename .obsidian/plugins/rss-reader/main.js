@@ -6081,7 +6081,6 @@ function getFeedItems(feed) {
     try {
       const rawData = yield requestFeed(feed);
       data = new window.DOMParser().parseFromString(rawData, "text/xml");
-      console.log(data);
     } catch (e) {
       console.error(e);
       return Promise.resolve(void 0);
@@ -6283,9 +6282,9 @@ var en_default = {
   RSS_Feeds: "RSS Feeds",
   open: "Open",
   refresh_feeds: "Refresh feeds",
-  create_all: "Create wallabag.xml",
-  mark_all_as_read: "Mark wallabag.xml as read",
-  add_tags_to_all: "Add tags to wallabag.xml entries",
+  create_all: "Create all",
+  mark_all_as_read: "Mark all as read",
+  add_tags_to_all: "Add tags to all entries",
   filtered_folders: "Filtered Folders",
   folders: "Folders",
   folder: "Folder",
@@ -6331,7 +6330,7 @@ var en_default = {
   invalid_name: "you need to specify a name",
   invalid_url: "this url is not valid",
   invalid_feed: "This feed does not have any entries",
-  filter_tags: "wallabag.xml articles with tags",
+  filter_tags: "All articles with tags",
   filter_unread: "All unread articles(from folders)",
   filter_read: "All read articles(from folders)",
   filter_favorites: "Favorites(from folders)",
@@ -6354,6 +6353,7 @@ var en_default = {
   from_folders: "from folders: ",
   from_feeds: "from feeds: ",
   with_tags: "with tags: ",
+  no_feed_with_name: "There is no feed with this name",
   invalid_tag: "This is not a valid tag",
   note_exists: "there is already a note with that name",
   invalid_filename: "that filename is not valid",
@@ -6401,15 +6401,15 @@ var en_default = {
   default_filename: "Template for filename",
   default_filename_help: "All variables from the paste template are available",
   cleanup: "Cleanup articles",
-  cleanup_help: "Removes wallabag.xml entries which fit the criteria specified below.",
-  cleanup_help2: "Keep in mind that wallabag.xml articles that still exist in the feed will reappear on the next refresh",
+  cleanup_help: "Removes entries which fit the criteria specified below.",
+  cleanup_help2: "Keep in mind that articles that still exist in the feed will reappear on the next refresh",
   perform_cleanup: "Perform cleanup",
   all: "all",
   from_feed: "from feed",
   older_than: "older than X Days",
-  older_than_help: "keep empty for wallabag.xml, will be ignored if there is no publishing date associated with entry",
+  older_than_help: "keep empty for all, will be ignored if there is no publishing date associated with entry",
   advanced: "Advanced",
-  remove_wrong_feed: "Remove wallabag.xml articles that are in the incorrect feed",
+  remove_wrong_feed: "Remove all articles that are in the incorrect feed",
   remove_wrong_feed_help: "This might have happened due to a bug in versions pre 0.8",
   scanning_items: "Scanning Articles (%1 / %2)",
   created_export: "Created OPML file in your Vaults root folder",
@@ -6523,6 +6523,7 @@ var de_default = {
   from_folders: "Aus Ordnern: ",
   from_feeds: "Aus Feeds: ",
   with_tags: "Mit Tags: ",
+  no_feed_with_name: "Es existiert kein Feed mit diesem Namen",
   invalid_tag: "Dieser Tag ist nicht g\xFCltig",
   note_exists: "Es existiert bereits eine Notiz mit diesem Namen",
   invalid_filename: "Der Dateiname ist nicht g\xFCltig",
@@ -13278,7 +13279,7 @@ var FilteredFolderModal = class extends BaseModal {
             this.filterFolders.push(value);
           }));
         })).addExtraButton((button) => {
-          button.setTooltip(t("delete")).setIcon("feather-trash").onClick(() => {
+          button.setTooltip(t("delete")).setIcon("trash").onClick(() => {
             this.filterFolders = this.filterFolders.filter((e) => e !== this.filterFolders[folder]);
             this.display();
           });
@@ -13335,14 +13336,9 @@ var FilteredFolderModal = class extends BaseModal {
         return this.filterFolders.contains(feed.folder);
       }).map((feed) => feed.name);
       for (const feed in this.filterFeeds) {
-        new import_obsidian17.Setting(feedsDiv).addSearch((search) => __async(this, null, function* () {
-          new ArraySuggest(this.app, search.inputEl, new Set(feeds));
-          search.setValue(this.filterFeeds[feed]).onChange((value) => __async(this, null, function* () {
-            this.removeValidationError(search);
-            this.filterFeeds = this.filterFeeds.filter((e) => e !== this.filterFeeds[feed]);
-            this.filterFeeds.push(value);
-          }));
-        })).addExtraButton((button) => {
+        new import_obsidian17.Setting(feedsDiv).addText((text2) => {
+          text2.setDisabled(true).setValue(this.filterFeeds[feed]);
+        }).addExtraButton((button) => {
           button.setTooltip(t("delete")).setIcon("trash").onClick(() => {
             this.filterFeeds = this.filterFeeds.filter((e) => e !== this.filterFeeds[feed]);
             this.display();
@@ -13353,27 +13349,30 @@ var FilteredFolderModal = class extends BaseModal {
       const newFeed = new import_obsidian17.Setting(feedsDiv).addSearch((search) => __async(this, null, function* () {
         new ArraySuggest(this.app, search.inputEl, new Set(feeds));
         search.onChange((value) => __async(this, null, function* () {
+          const feeds2 = this.plugin.settings.feeds.filter((feed) => feed.name === feedIgnoreValue).length;
+          if (feeds2 !== 1) {
+            this.setValidationError(search, t("no_feed_with_name"));
+            return;
+          }
           feedValue = value;
         }));
       })).addExtraButton((button) => {
         button.setTooltip(t("add")).setIcon("plus").onClick(() => {
+          const feeds2 = this.plugin.settings.feeds.filter((feed) => feed.name === feedIgnoreValue).length;
+          if (feeds2 !== 1)
+            return;
           this.filterFeeds.push(feedValue);
           this.display();
         });
       });
       newFeed.controlEl.addClass("rss-setting-input");
       feedsDiv.createEl("p", { text: t("filter_feed_ignore_help") });
-      for (const folder in this.ignoreFeeds) {
-        new import_obsidian17.Setting(feedsDiv).addSearch((search) => __async(this, null, function* () {
-          new ArraySuggest(this.app, search.inputEl, new Set(feeds));
-          search.setValue(this.ignoreFeeds[folder]).onChange((value) => __async(this, null, function* () {
-            this.removeValidationError(search);
-            this.ignoreFeeds = this.ignoreFeeds.filter((e) => e !== this.ignoreFeeds[folder]);
-            this.ignoreFeeds.push(value);
-          }));
-        })).addExtraButton((button) => {
+      for (const feed in this.ignoreFeeds) {
+        new import_obsidian17.Setting(feedsDiv).addText((text2) => {
+          text2.setDisabled(true).setValue(this.ignoreFeeds[feed]);
+        }).addExtraButton((button) => {
           button.setTooltip(t("delete")).setIcon("trash").onClick(() => {
-            this.ignoreFeeds = this.ignoreFeeds.filter((e) => e !== this.ignoreFeeds[folder]);
+            this.ignoreFeeds = this.ignoreFeeds.filter((e) => e !== this.ignoreFeeds[feed]);
             this.display();
           });
         });
@@ -13382,10 +13381,18 @@ var FilteredFolderModal = class extends BaseModal {
       const newIgnoreFeed = new import_obsidian17.Setting(feedsDiv).addSearch((search) => __async(this, null, function* () {
         new ArraySuggest(this.app, search.inputEl, new Set(feeds));
         search.onChange((value) => __async(this, null, function* () {
+          const feeds2 = this.plugin.settings.feeds.filter((feed) => feed.name === feedIgnoreValue).length;
+          if (feeds2 !== 1) {
+            this.setValidationError(search, t("no_feed_with_name"));
+            return;
+          }
           feedIgnoreValue = value;
         }));
       })).addExtraButton((button) => {
         button.setTooltip(t("add")).setIcon("plus").onClick(() => {
+          const feeds2 = this.plugin.settings.feeds.filter((feed) => feed.name === feedIgnoreValue).length;
+          if (feeds2 !== 1)
+            return;
           this.ignoreFeeds.push(feedIgnoreValue);
           this.display();
         });
@@ -13395,18 +13402,9 @@ var FilteredFolderModal = class extends BaseModal {
       tagDiv.createEl("h2", { text: t("tags") });
       tagDiv.createEl("p", { text: t("filter_tags_help") });
       for (const tag in this.filterTags) {
-        new import_obsidian17.Setting(tagDiv).addSearch((search) => __async(this, null, function* () {
-          new ArraySuggest(this.app, search.inputEl, get_store_value(tagsStore));
-          search.setValue(this.filterTags[tag]).onChange((value) => __async(this, null, function* () {
-            this.removeValidationError(search);
-            if (!value.match(TAG_REGEX) || value.match(NUMBER_REGEX) || value.contains(" ") || value.contains("#")) {
-              this.setValidationError(search, t("invalid_tag"));
-              return;
-            }
-            this.filterTags = this.filterTags.filter((e) => e !== this.filterTags[tag]);
-            this.filterTags.push(value);
-          }));
-        })).addExtraButton((button) => {
+        new import_obsidian17.Setting(tagDiv).addText((text2) => {
+          text2.setDisabled(true).setValue(this.filterTags[tag]);
+        }).addExtraButton((button) => {
           button.setTooltip(t("delete")).setIcon("trash").onClick(() => {
             this.filterTags = this.filterTags.filter((e) => e !== this.filterTags[tag]);
             this.display();
@@ -14322,11 +14320,11 @@ function displayFilterSettings(plugin, containerEl) {
       const folders = filter.filterFolders.join(",");
       message += "; " + t("from_folders") + folders;
     }
-    if (filter.filterFeeds.length > 0) {
+    if (filter.filterFeeds !== void 0 && filter.filterFeeds.length > 0) {
       const feeds = filter.filterFeeds.join(",");
       message += "; " + t("from_feeds") + feeds;
     }
-    if (filter.filterTags.length > 0) {
+    if (filter.filterTags !== void 0 && filter.filterTags.length > 0) {
       const tags = filter.filterTags.join(",");
       message += "; " + t("with_tags") + tags;
     }

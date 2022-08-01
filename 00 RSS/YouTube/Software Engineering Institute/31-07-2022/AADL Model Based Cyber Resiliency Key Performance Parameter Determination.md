@@ -1,0 +1,13 @@
+---
+link: https://www.youtube.com/watch?v=4Y-uAhqD5qY
+author: 
+   
+published: 2022-07-05T10:06:00
+tags: []
+---
+# Highlights
+
+
+---
+# AADL Model Based Cyber Resiliency Key Performance Parameter Determination
+This presentation by Ricardo Rodriguez was given virtually at AADL/ACVIP User Day 2022. The goal of this research project is to quantify to what degree a real-time embedded system can withstand specific cybersecurity attacks by utilizing the Architecture Analysis Design Language (AADL). AADL is a modeling language used for Model Based Engineering and targeted at real-time embedded systems. By understanding the quantitative effects of an attack on an AADL system model, design decisions affecting Cyber Resiliency can be made early in the System Development Life Cycle (SDLC). This supports one of the Cyber Resiliency goals of building a system that can withstand an attack. Key Performance Parameters (KPPs) related to Cyber Resiliency may then be established and measured based on the system models developed using AADL. Dr. Ricardo J. Rodriguez is a Raytheon Intelligence and Space (RI&S) Senior Engineering Fellow with over 23 years of experience and a subject matter expert in the areas of Systems Security Engineering, Software Assurance, Cybersecurity, Computer Networking, and related C2 capabilities. Before joining RI&S, he was the Radar Product Line cybersecurity lead engineer, where he helped define technical direction, long-range technical road maps, and planning for achieving cybersecurity technical goals that support program and organizational objectives. Cyber Ricky, as he is referred to, works meticulously to maintain his knowledge and skills in the cybersecurity domain. After joining RI&S in 2019, Ricky has supported over fifteen proposal efforts while providing technical leadership to over 10 programs as well as cybersecurity consulting to many more across multiple mission areas. In the area of Diversity and Inclusion, Ricky has held many roles since joining Raytheon in 2001, culminating with a 2-yr term as HOLA Global President and RTX Diversity and Inclusion Committee member. Ricky, who has been awarded six patents, one trade secret, and multiple innovation awards, has also instructed both internally and externally. He holds bachelor’s and master’s degrees in computer engineering from the University of Puerto Rico-Mayaguez, and a Ph.D. in engineering-cybersecurity from Nova Southeastern University. Cyber Ricky’s favorite quote, attributed to Winston Churchill, reads “We make a living by what we get, but make a life by what we give.”
