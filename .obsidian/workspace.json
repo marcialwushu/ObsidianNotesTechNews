@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7e2ec425d6da048",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Cyber Security Certifications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a3c0b32060ca8b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Fraud and Risks Management Certifications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 Security/Lavagem de dinheiro.md",
+                "file": "08 Security/Fraud and Risks Management Certifications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 Security/Lavagem de dinheiro.md",
+                "file": "08 Security/Fraud and Risks Management Certifications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 Security/Lavagem de dinheiro.md"
+                "file": "08 Security/Fraud and Risks Management Certifications.md"
               }
             }
           },
@@ -133,17 +158,17 @@
     "direction": "horizontal",
     "width": 344
   },
-  "active": "cf0a2a6dfe444721",
+  "active": "1a3c0b32060ca8b0",
   "lastOpenFiles": [
+    "08 Security/Cyber Security Certifications.md",
+    "08 Security/Lavagem de dinheiro.md",
     "08 Security/Analise de Fraude com IA ML.md",
     "08 Security/accounting.md",
     "08 Security/FitBank.md",
     "08 Security/Listas Restritivas.md",
     "08 Security/Report.md",
-    "08 Security/Untitled.md",
     "08 Security/ThreatInteligence.md",
     "08 Security/Security Ontology.md",
-    "08 Security/Security Guide for Developers.md",
-    "08 Security/Secure Patterns.md"
+    "08 Security/Security Guide for Developers.md"
   ]
 }
