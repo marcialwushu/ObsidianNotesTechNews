@@ -1,0 +1,111 @@
+# Security Operations 
+
+## Threat Prevention 
+
+- Network/Application Firewall
+- Vulnerability Management
+	- Scope 
+		- Operation Systems
+		- Network Devices
+		- Applications
+		- Databases
+		- Code Review
+		- Physical Security
+		- Cloud
+		- Mobile Devices
+		- IoT
+	- Identify
+		- Periodic
+		- Comprehensive
+	- Classify
+		- Risk Based Approach
+		- Prioritize
+	- Mitigation
+		- Fix
+		- Verify
+	- Measure
+		- Baseline
+		- Metric
+		- Use Awareness Program as a tool
+- Application Seccurity
+	- Application Development Standards
+	- Secure Code  Training and Review 
+	- Application Vulnerability Testing 
+	- Change Control File Integrity Monitoring 
+	- Web Application Firewall
+	- Integration to SDLC ad Project Develivery
+- IPS
+- Identity Management
+- Information Security Policy
+- DLP
+- Anti Malware, Anti-spam
+- Proxy/Content Filtering
+- Patching 
+- DDoS Protection 
+- Hardening guidelines 
+- Desktop security 
+- Encryption, SSL
+- PKI
+- Security Health Checks 
+- Secure DevOps
+
+
+## Threat Detection 
+
+- Log Analysis/correlation/SIEM
+- Alerting (IDS/IPS. FIM, WAF, Antivirus, etc)
+- NetFlow analysis
+- DLP
+- Threat hunting and insider threat
+	- Automate Trhreat Hunting 
+- MSSP Integration 
+- Threat Detection capability assessment
+	- Gap assessment
+	- Priorization to fill gaps 
+- SOC Operations 
+	- SOC Resource Mgmt
+	- SOC Staff continuous training 
+	- Shift amangement
+	- SOC procedures 
+	- SOC Metrics and Reports 
+	- SOC and NOC Integration 
+	- SOC Tech stack management
+	- Threat Intelligence Feeds and proper utilization 
+	- SOC DR execise
+	- Partnerships with ISACs
+	- Long term treds analysis 
+	- Unstructured data from IoT 
+	- Integrate new data sources (see areas under skills development)
+	- Skilss Development
+		- Machine Learning Skill Development
+		- Understand Algorithm Bases
+		- IOT
+		- Automous Vehicles
+		- Drones 
+		- Medical Devices
+		- Industrial Control System (ICS)
+		- Blockchain & Smarth Contracts 
+	- DevOps Integration 
+	- Prepare for unplanned work 
+- Use of AI and Data Analytics 
+	- Use of computer vision in physical security
+	- Log Anomaly Detection 
+
+## Incident Magement
+
+- Create adequate Incident Response capability
+- Media Relations 
+- Incident Readiness Assesssment
+- Forensic investigation 
+- Data Breach Preparation 
+	- Update and Test Incident Responde Plan
+	- Set Leadership Exceptation 
+	- Media Relations
+	- Business Continuity Plan 
+	- Forensic and IR Partner 
+	- Insurance Policy
+	- Adequate Logging 
+	- Breach execises (e.g. simultion)
+- Ransonware (yes making it a sepate line item)
+	- Tie with DR Plan 
+	- Devices constainment Strategy

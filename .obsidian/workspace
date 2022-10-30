@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00 RSS/YouTube/Software Engineering Institute/31-07-2022/What are Deepfakes, and How Can We Detect Them 1.md",
+            "file": "08 Security/Secure Patterns.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 RSS/YouTube/Software Engineering Institute/31-07-2022/What are Deepfakes, and How Can We Detect Them 1.md",
+                "file": "08 Security/Secure Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 RSS/YouTube/Software Engineering Institute/31-07-2022/What are Deepfakes, and How Can We Detect Them 1.md",
+                "file": "08 Security/Secure Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,8 +106,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 RSS/YouTube/Software Engineering Institute/31-07-2022/What are Deepfakes, and How Can We Detect Them 1.md"
+                "file": "08 Security/Secure Patterns.md"
               }
+            }
+          },
+          {
+            "id": "8aed3ffc647424f4",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
             }
           }
         ],
@@ -117,17 +125,17 @@
     "direction": "horizontal",
     "width": 344
   },
-  "active": "b884f210b92cbbf5",
+  "active": "cf0a2a6dfe444721",
   "lastOpenFiles": [
-    "00 RSS/YouTube/Software Engineering Institute/31-07-2022/A Dive into Deepfakes.md",
-    "00 RSS/YouTube/Software Engineering Institute/31-07-2022/Adapting Agile and DevSecOps to Improve Non-Software Development Teams.md",
-    "00 RSS/YouTube/Software Engineering Institute/31-07-2022/ACVIP Overview.md",
-    "00 RSS/YouTube/Software Engineering Institute/31-07-2022/ACVIP in Practice at Sikorsky   Lockheed Martin.md",
-    "00 RSS/YouTube/Software Engineering Institute/31-07-2022/AADL Model Based Cyber Resiliency Key Performance Parameter Determination.md",
-    "00 RSS/YouTube/Software Engineering Institute/31-07-2022/AADL ACVIP 2021  The Use of ACVIP Containment of the Accumulation of Program Technical Debt.md",
-    "IBSEC/Tecnologias de aprimoramento de privacidade.md",
-    "00 RSS/YouTube/Software Engineering Institute/31-07-2022/DevSecOps Days Los Angeles 2022.md",
-    "00 RSS/YouTube/Software Engineering Institute/31-07-2022/DevSecOps Days Washington D.C. 2022.md",
-    "00 RSS/YouTube/Software Engineering Institute/31-07-2022/Developing Models to Support DoD Technical Reviews.md"
+    "08 Security/accounting.md",
+    "08 Security/Analise de Fraude com IA ML.md",
+    "08 Security/FitBank.md",
+    "08 Security/Report.md",
+    "08 Security/OFAC.md",
+    "08 Security/Listas Restritivas.md",
+    "08 Security/Security Ontology.md",
+    "08 Security/Secuirty Operations.md",
+    "08 Security/Lavagem de dinheiro.md",
+    "08 Security/Untitled.md"
   ]
 }

@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "b14aed94fa9af599",
+    "type": "split",
+    "children": [
+      {
+        "id": "c11ecb3af6bde8a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf0a2a6dfe444721",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Lavagem de dinheiro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03b86c537ac4db04",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7652b49b7e63f8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b884f210b92cbbf5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fccfa4dcab7bd06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#infosec",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290
+  },
+  "right": {
+    "id": "6d15a977674d1e71",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6590e2fccc265e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef8c8c8d1b89f651",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "08 Security/Lavagem de dinheiro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1a38242ee85f6fc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "88d55d2fb763499b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "08 Security/Lavagem de dinheiro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ea4ee7700bbdcdcd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "08 Security/Lavagem de dinheiro.md"
+              }
+            }
+          },
+          {
+            "id": "8aed3ffc647424f4",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344
+  },
+  "active": "cf0a2a6dfe444721",
+  "lastOpenFiles": [
+    "08 Security/Analise de Fraude com IA ML.md",
+    "08 Security/accounting.md",
+    "08 Security/FitBank.md",
+    "08 Security/Listas Restritivas.md",
+    "08 Security/Report.md",
+    "08 Security/Untitled.md",
+    "08 Security/ThreatInteligence.md",
+    "08 Security/Security Ontology.md",
+    "08 Security/Security Guide for Developers.md",
+    "08 Security/Secure Patterns.md"
+  ]
+}

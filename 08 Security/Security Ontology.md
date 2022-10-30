@@ -18,7 +18,7 @@
 - [[SWRL (Semantic Web Rule Language)]]
 - [[OWL]]
 
-## Listas Restritivas
+## [[Listas Restritivas]]
 
 - [[Organização das Nações Unidas (ONU)]]
 - [[Office of Foreign Assets Control (OFAC)]]
