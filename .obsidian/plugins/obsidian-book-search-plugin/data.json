@@ -1,0 +1,13 @@
+{
+  "folder": "00 My Books",
+  "fileNameFormat": "{{title}}",
+  "frontmatter": "",
+  "content": "",
+  "useDefaultFrontmatter": false,
+  "defaultFrontmatterKeyType": "Camel Case",
+  "templateFile": "Templates/BookTemplate.md",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "pt-br"
+}
