@@ -1,0 +1,8 @@
+# Autoridade Bancária Europeia (EBA)
+
+
+## [](https://learn.microsoft.com/pt-br/compliance/regulatory/offering-eba-eu#about-the-eba)Sobre a EBA
+
+O [European Banking Authority](https://eba.europa.eu/) (EBA) é 'uma autoridade independente que trabalha para garantir uma regulação e supervisão prudente, eficaz e consistente em todo o setor bancário da UE'. Em dezembro de 2017, o EBA emitiu seu [Relatório Final: de Recomendações sobre a terceirização de provedores de serviços de nuvem](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362), que descreveu uma abordagem abrangente para a terceirização de computação em nuvem por instituições financeiras na UE. As recomendações esclarecem quando a terceirização da nuvem é permitida, aplicam uma abordagem baseada em princípios em relação à medição de riscos de uma perspectiva neutra em termos de tecnologia e buscam uma maior harmonização dentro da Europa e além.
+
+As recomendações da EBA entraram em vigor em julho de 2018, e desenvolvem e esclarecem as diretrizes gerais de terceirização publicadas em 2006 pelo Comitê de Supervisores de Bancos Europeus. Na verdade, a emissão dessas recomendações surge após um período de consulta durante o qual a Microsoft forneceu comentários substanciais. Muitas das recomendações finais consideram os comentários fornecidos pela Microsoft para o EBA.

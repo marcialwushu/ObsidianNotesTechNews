@@ -20,19 +20,247 @@
             }
           },
           {
-            "id": "c7e2ec425d6da048",
+            "id": "8882c070199142c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 DataViews/All Books.md",
+                "file": "08 Security/Conformidades/Conformidade Serviços Financeiros/EBA (UE).md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f67d16a586e98e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Conformidades/Conformidade Serviços Financeiros/FCA + PRA (UK).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34ddf1b4f770a1aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Conformidades/Governo dos EUA/CJIS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56190503de947946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Conformidades/Governo dos EUA/CNSSI 1253.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c42d2ef848fd155d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Conformidades/Governo dos EUA/DFARS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "649e0f4cad6eb678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Conformidades/Governo dos EUA/DoD IL2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b80266b65bf01be5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Conformidades/Governo dos EUA/DoD IL5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4203159884b988d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Conformidades/Governo dos EUA/DoE 10 CFR Parte 810.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a555a8505ec9673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Conformidades/Governo dos EUA/EAR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25c9adc7c9bb7670",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Conformidades/Governo dos EUA/FedRAMP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d817ff52b6ea24f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Conformidades/Governo dos EUA/FIPS 140-2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45f0af509eb391e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Conformidades/Governo dos EUA/IRS 1075.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8293520ab9e489b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Conformidades/Governo dos EUA/ITAR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a11e8c6440b1e19d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Conformidades/Governo dos EUA/Seção 889 do NDAA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bf60124f2d68b10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Conformidades/Governo dos EUA/NIST 800-161.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbcbbc439f3dfe89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Conformidades/Governo dos EUA/NIST 800-171.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90e265c5aa8983cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Conformidades/Governo dos EUA/NIST 800-63.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "643595fbed2a7843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Conformidades/Governo dos EUA/NIST CSF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a714c09eeb007ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Conformidades/Governo dos EUA/NIST 800-171.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e06fad3effbdd86f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Analise de Fraude com IA ML.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -90,7 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 DataViews/All Books.md",
+                "file": "08 Security/Analise de Fraude com IA ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 DataViews/All Books.md",
+                "file": "08 Security/Analise de Fraude com IA ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +355,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 DataViews/All Books.md"
+                "file": "08 Security/Analise de Fraude com IA ML.md"
               }
             }
           },
@@ -142,6 +370,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b43d002b2a26b0f1",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -151,17 +387,17 @@
     "width": 344,
     "collapsed": true
   },
-  "active": "b884f210b92cbbf5",
+  "active": "e06fad3effbdd86f",
   "lastOpenFiles": [
-    "00 My Books/O Quinto Domínio.md",
-    "00 My Books/Caos a construção de uma nova ciência.md",
-    "00 My Books/Chaos.md",
-    "00 DataViews/All Books.md",
-    "00 My Books/A informação.md",
-    "00 My Books/21 lições para o século 21.md",
-    "00 My Books/Moneyland.md",
-    "00 My Books/Sapiens.md",
-    "00 My Books/SAPIENS - UMA BREVE HISTORIA DA HUMANIDADE.md",
-    "00 My Books/Homo Deus.md"
+    "08 Security/Cyber Security Certifications.md",
+    "08 Security/Doxing.md",
+    "08 Security/Fraud and Risks Management Certifications.md",
+    "08 Security/Lavagem de dinheiro.md",
+    "08 Security/Listas Restritivas.md",
+    "08 Security/ThreatInteligence.md",
+    "08 Security/Security Ontology.md",
+    "08 Security/Security Guide for Developers.md",
+    "08 Security/Secure Patterns.md",
+    "08 Security/Secuirty Operations.md"
   ]
 }

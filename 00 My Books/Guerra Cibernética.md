@@ -1,0 +1,21 @@
+---
+tag: 📚Book
+title: "Guerra Cibernética"
+author: [Richard A. Clarke, Robert K. Knake]
+publisher: Brasport
+publish: 2015-05-20
+total: 256
+isbn: 8574527114 {{isbn1#template-variable-definition
+cover: http://books.google.com/books/content?id=k_50CQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+status: unread
+genre: 
+category: Computers
+created: 2022-10-30 21:08:55
+updated: 2022-10-30 21:08:55
+---
+
+![cover|150](http://books.google.com/books/content?id=k_50CQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api.md)
+
+# Guerra Cibernética
+
+* Tradução do livro “Cyber War: the next threat to national security and what to do about it”. Copyright © 2010 HarperCollins. A Brasport e a Clavis trazem para o Brasil a tradução do livro "CYBER WAR - THE NEXT THREAT TO NATIONAL SECURITY AND WHAT TO DO ABOUT IT", uma das poucas obras já escritas com foco em guerra cibernética, sendo, certamente, o principal texto internacional introdutório sobre o assunto disponível. Richard A. Clarke advertiu anteriormente os EUA sobre os estragos que o terrorismo causaria na segurança – e ele estava certo. Agora ele nos avisa sobre outra ameaça, silenciosa, mas igualmente perigosa. Guerra Cibernética é um livro completo sobre tecnologia, governo e estratégia militar; sobre criminosos, espiões, soldados e hackers. O livro explica claramente e de forma convincente o que é guerra cibernética, como ela funciona e como somos vulneráveis como nação e cidadãos em uma vasta e ameaçadora rede de criminosos cibernéticos. Este é o primeiro livro sobre a guerra do futuro – a guerra cibernética – e é um argumento convincente de que já podemos estar perdendo. No livro, o autor apresenta um panorama surpreendente defendendo que o uso de armas cibernéticas deve ser uma questão concreta a ser considerada nas ações de Defesa Nacional. Como se sabe, computadores - e dispositivos computacionais - controlam boa parte das atuais infraestruturas civis e militares, incluindo sistemas críticos para o bem estar da sociedade e sistemas que suportam a adequada condução de ações militares. Ao usar armas computacionais que causam impacto em tais sistemas, o "inimigo da nação" pode comprometer o bom andamento de ações militares - ofensivas ou defensivas - e pode, ainda, imprimir ações que causem grande impacto na população civil e no funcionamento da sociedade. Clarke mostra que ações desse tipo, envolvendo o uso de computadores e o ataque a sistemas computacionais, já vêm sendo empregadas em iniciativas caracterizadas como "ações de Estado", tanto em tempos de paz, quanto no campo de batalha. Dessa forma, é fundamental, ao mesmo tempo, entender as implicações diplomáticas desse novo tipo de arma, e estabelecer limites quanto a sua utilização - para defesa, e para ataque. A tradução deste clássico internacional no Brasil contou com apoio formal de renomadas instituições de pesquisa e apoio à inovação no Brasil, com destaque para FINEP, CNPq e FAPERJ. Na edição brasileira, o livro conta com um artigo especial que aborda o tema "Segurança Ofensiva: um aliado no caminho para a defesa cibernética". O artigo, escrito pelos tradutores da versão nacional, tem por objetivo apresentar ao grande público essa ferramenta fundamental no estabelecimento de diagnósticos precisos de Segurança da Informação e de Sistemas Computacionais. Best seller do New York Times. “Um retrato angustiante – e persuasivo – da ameaça cibernética a que estão expostos os Estados Unidos nos dias atuais.” – Michiko Kakutani, New York Times “Guerra Cibernética pode ser o livro mais importante sobre política de segurança dos últimos anos.” – Fred Kaplan, Slate “Surpreendente.” – Misha Glenny, Financial Times “Clarke e Knake estão certos de soar o alarme.” – Glenn Harlan Reynolds, Wall Street Journal “Prescrições urgentes de política em uma forma esclarecedora, ocasionalmente fascinantes, contos da frente de guerra.” – Jeff Stein, Washington Post “Uma ótima introdução deste problema esotérico, porém gravíssimo, de segurança nacional, e cidadãos devem lê-lo.” – Jack Goldsmith, New Republic
