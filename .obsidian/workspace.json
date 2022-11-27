@@ -49,218 +49,122 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 Security/Conformidades/Governo dos EUA/CJIS.md",
+                "file": "00 DataViews/All Books.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "56190503de947946",
+            "id": "dcc0578728c48bbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 Security/Conformidades/Governo dos EUA/CNSSI 1253.md",
+                "file": "10 Links/Browser Links.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b50acca3fb06c1fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/Conformidades/Conformidade Serviços Financeiros/FSA (Dinamarca).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c42d2ef848fd155d",
+            "id": "7593e1dd43eade40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 Security/Conformidades/Governo dos EUA/DFARS.md",
+                "file": "BACEN/COSIF/Sistema COSIF – Consolidado Contábil das Instituições do SFN.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "649e0f4cad6eb678",
+            "id": "d5798cdf81e4f6a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 Security/Conformidades/Governo dos EUA/DoD IL2.md",
+                "file": "BACEN/COSIF/Leiautes dos documentos do Sistema COSIF.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b80266b65bf01be5",
+            "id": "d420588f59a30d1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 Security/Conformidades/Governo dos EUA/DoD IL5.md",
+                "file": "BACEN/COSIF/O que é COSIF - Plano Contábil das Instituições Financeiras.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4203159884b988d8",
+            "id": "fb0bf06d9672a8b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 Security/Conformidades/Governo dos EUA/DoE 10 CFR Parte 810.md",
+                "file": "BACEN/COSIF/Sistema COSIF – Consolidado Contábil das Instituições do SFN.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6a555a8505ec9673",
+            "id": "22518f769f0cf040",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 Security/Conformidades/Governo dos EUA/EAR.md",
+                "file": "BACEN/SPI PIX/BC aprimora mecanismos de segurança do Pix.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "25c9adc7c9bb7670",
+            "id": "cd504b7251c7a797",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 Security/Conformidades/Governo dos EUA/FedRAMP.md",
+                "file": "BACEN/SPI PIX/BC aprimora mecanismos de segurança do Pix.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d817ff52b6ea24f1",
+            "id": "4062f2561540e454",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 Security/Conformidades/Governo dos EUA/FIPS 140-2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45f0af509eb391e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 Security/Conformidades/Governo dos EUA/IRS 1075.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8293520ab9e489b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 Security/Conformidades/Governo dos EUA/ITAR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a11e8c6440b1e19d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 Security/Conformidades/Governo dos EUA/Seção 889 do NDAA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bf60124f2d68b10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 Security/Conformidades/Governo dos EUA/NIST 800-161.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbcbbc439f3dfe89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 Security/Conformidades/Governo dos EUA/NIST 800-171.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90e265c5aa8983cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 Security/Conformidades/Governo dos EUA/NIST 800-63.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "643595fbed2a7843",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 Security/Conformidades/Governo dos EUA/NIST CSF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a714c09eeb007ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 Security/Conformidades/Governo dos EUA/NIST 800-171.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e06fad3effbdd86f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 Security/Analise de Fraude com IA ML.md",
+                "file": "BACEN/SPI PIX/Normativas/Resolução BCB n° 147.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -318,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 Security/Analise de Fraude com IA ML.md",
+                "file": "BACEN/SPI PIX/Normativas/Resolução BCB n° 147.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 Security/Analise de Fraude com IA ML.md",
+                "file": "BACEN/SPI PIX/Normativas/Resolução BCB n° 147.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -355,49 +259,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 Security/Analise de Fraude com IA ML.md"
+                "file": "BACEN/SPI PIX/Normativas/Resolução BCB n° 147.md"
               }
-            }
-          },
-          {
-            "id": "8aed3ffc647424f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 RSS/Google Alert - Open Banking/30-10-2022/ESG&#39;s struggles are Big Tech&#39;s problem - Protocol.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b43d002b2a26b0f1",
-            "type": "leaf",
-            "state": {
-              "type": "RSS_FEED",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 344,
-    "collapsed": true
+    "width": 344
   },
-  "active": "e06fad3effbdd86f",
+  "active": "4062f2561540e454",
   "lastOpenFiles": [
-    "08 Security/Cyber Security Certifications.md",
-    "08 Security/Doxing.md",
-    "08 Security/Fraud and Risks Management Certifications.md",
-    "08 Security/Lavagem de dinheiro.md",
-    "08 Security/Listas Restritivas.md",
-    "08 Security/ThreatInteligence.md",
-    "08 Security/Security Ontology.md",
-    "08 Security/Security Guide for Developers.md",
-    "08 Security/Secure Patterns.md",
-    "08 Security/Secuirty Operations.md"
+    "BACEN/SPI PIX/BC aprimora mecanismos de segurança do Pix.md",
+    "BACEN/SPI PIX/Normativas.md",
+    "BACEN/SPI PIX/Normativas/Resolução BCB n° 147.md",
+    "BACEN/COSIF/Sistema COSIF – Consolidado Contábil das Instituições do SFN.md",
+    "BACEN/COSIF/O que é COSIF - Plano Contábil das Instituições Financeiras.md",
+    "BACEN/COSIF/Adequação do ambiente contábil dentro das Instituições de Pagamento.md",
+    "BACEN/COSIF/Leiautes dos documentos do Sistema COSIF.md",
+    "08 Security/Conformidades/Conformidade Serviços Financeiros/FSA (Dinamarca).md",
+    "08 Security/Conformidades/Conformidade Serviços Financeiros/GLBA (US).md",
+    "08 Security/Conformidades/Conformidade Serviços Financeiros/KNF (Polonia).md"
   ]
 }

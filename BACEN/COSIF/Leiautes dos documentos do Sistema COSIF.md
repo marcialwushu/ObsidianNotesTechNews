@@ -1,0 +1,19 @@
+
+<table class="table table-striped"><tbody><tr><td><strong>Sistema</strong><br></td><td><strong>Base Legal</strong><br></td><td><strong>Leiautes</strong><br></td></tr><tr><td>Plano Contábil das Instituições do Sistema Financeiro Nacional - COSIF<br></td><td><a href="/estabilidadefinanceira/cosif">Manual do Plano de Contas Cosif</a><br><a href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&amp;numero=4950">Resolução CMN n° 4.950 de 30/9/2021</a><br><a href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&amp;numero=168">Resolução BCB Nº 168, de 01/12/2021</a><br><a href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&amp;numero=195">Instrução Normativa BCB n° 195 de 9/12/2021 </a><br><a href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&amp;numero=210">Instrução Normativa BCB n° 210 de 21/12/2021</a><br><span id="ms-rterangepaste-end" aria-hidden="true"></span><a href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&amp;numero=146">Resolução BCB n° 146 de 28/9/2021</a><br><a href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&amp;numero=201">Instrução Normativa BCB n° 201 de 9/12/2021</a><br><a href="https://www.bcb.gov.br/pre/normativos/busca/normativo.asp?numero=4151&amp;tipo=Resolu%C3%A7%C3%A3o&amp;data=30/10/2012">Resolução 4.151, de 30/10/2012</a><br><a href="https://www.bcb.gov.br/pre/normativos/busca/normativo.asp?tipo=circ&amp;ano=2013&amp;numero=3669">Circular 3.669, de 02/10/2013</a><br><a href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&amp;numero=179">Instrução Normativa BCB n° 179 de 25/10/2021</a>&nbsp;<br><a href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&amp;numero=142">Instrução Normativa BCB n° 142 de 16/8/2021</a><br><a href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&amp;numero=194">Instrução Normativa BCB n° 194 de 3/12/2021 </a><br><a href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&amp;numero=277">Instrução Normativa BCB n° 277&nbsp;de 5/4/2022</a><br><a href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&amp;numero=321">Instrução Normativa BCB n° 321 de 10/11/2022</a><br></td><td><a href="/estabilidadefinanceira/leiautecosif4010">4010 | 4016 </a><br><a href="/estabilidadefinanceira/leiautecosif4060">4060 | 4066</a><br><a href="/estabilidadefinanceira/leiautecosif4090">4090 | 4096 </a><br><a href="/estabilidadefinanceira/leiautecosif4303">4303 | 4313 </a><br><a href="/estabilidadefinanceira/leiautecosif4413">4413 | 4423 | 4433</a><br><a href="/estabilidadefinanceira/leiautecosif4500">4500 | 4510</a></td></tr></tbody></table>
+
+
+Garantir a estabilidade do poder de compra da moeda, zelar por um sistema financeiro sólido, eficiente e competitivo, e fomentar o bem-estar econômico da sociedade.
+
+-   Atendimento: 145 (custo de ligação local)
+-   [Fale conosco](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/acessoinformacao/faleconosco)
+
+-   [Política de privacidade](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/acessoinformacao/politicaprivacidade)
+-   [Política de acessibilidade](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/acessoinformacao/politica_acessibilidade)
+-   © Banco Central do Brasil - [Todos os direitos reservados](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/acessoinformacao/direitosautorais)
+
+v0.25
+
+---
+
+- [Banco Central do Brasil (bcb.gov.br)](https://www3.bcb.gov.br/aplica/cosif)
+- 
