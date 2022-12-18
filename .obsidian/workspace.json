@@ -8,84 +8,120 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf0a2a6dfe444721",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 Security/Lavagem de dinheiro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8882c070199142c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 Security/Conformidades/Conformidade Serviços Financeiros/EBA (UE).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f67d16a586e98e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 Security/Conformidades/Conformidade Serviços Financeiros/FCA + PRA (UK).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34ddf1b4f770a1aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 DataViews/All Books.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcc0578728c48bbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 Links/Browser Links.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b50acca3fb06c1fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 Security/Conformidades/Conformidade Serviços Financeiros/FSA (Dinamarca).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7593e1dd43eade40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BACEN/COSIF/Sistema COSIF – Consolidado Contábil das Instituições do SFN.md",
+                "file": "IBSEC/DSDM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ede5fb8aa44d9373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/OWASP/ASVS Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8443af87cd2d66a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/OWASP/MASVS Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e0eeac116c31df9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/OWASP/Proactive Controls Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49212279ffabc6a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/OWASP/OWASP Top Ten 2021.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5db7955510f9931b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/OWASP/Security_Testing_Cheat_Sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d52f5adf8627010",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/OWASP/Web_Application_Security_Testing_Cheat_Sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0183aaae946de22b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/OWASP/Web_Service_Security_Testing_Cheat_Sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "863d78915968092c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/OWASP/Secure_SDLC_Cheat_Sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c04e4030ec7cea4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Security/OWASP/PL_SQL_Security_Cheat_Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,69 +138,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d420588f59a30d1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BACEN/COSIF/O que é COSIF - Plano Contábil das Instituições Financeiras.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb0bf06d9672a8b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BACEN/COSIF/Sistema COSIF – Consolidado Contábil das Instituições do SFN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22518f769f0cf040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BACEN/SPI PIX/BC aprimora mecanismos de segurança do Pix.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd504b7251c7a797",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BACEN/SPI PIX/BC aprimora mecanismos de segurança do Pix.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4062f2561540e454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BACEN/SPI PIX/Normativas/Resolução BCB n° 147.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -222,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BACEN/SPI PIX/Normativas/Resolução BCB n° 147.md",
+                "file": "08 Security/OWASP/PL_SQL_Security_Cheat_Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BACEN/SPI PIX/Normativas/Resolução BCB n° 147.md",
+                "file": "08 Security/OWASP/PL_SQL_Security_Cheat_Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -259,28 +235,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BACEN/SPI PIX/Normativas/Resolução BCB n° 147.md"
+                "file": "08 Security/OWASP/PL_SQL_Security_Cheat_Sheet.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 344
+    "width": 344,
+    "collapsed": true
   },
-  "active": "4062f2561540e454",
+  "active": "1c04e4030ec7cea4",
   "lastOpenFiles": [
-    "BACEN/SPI PIX/BC aprimora mecanismos de segurança do Pix.md",
-    "BACEN/SPI PIX/Normativas.md",
-    "BACEN/SPI PIX/Normativas/Resolução BCB n° 147.md",
-    "BACEN/COSIF/Sistema COSIF – Consolidado Contábil das Instituições do SFN.md",
-    "BACEN/COSIF/O que é COSIF - Plano Contábil das Instituições Financeiras.md",
-    "BACEN/COSIF/Adequação do ambiente contábil dentro das Instituições de Pagamento.md",
-    "BACEN/COSIF/Leiautes dos documentos do Sistema COSIF.md",
-    "08 Security/Conformidades/Conformidade Serviços Financeiros/FSA (Dinamarca).md",
-    "08 Security/Conformidades/Conformidade Serviços Financeiros/GLBA (US).md",
-    "08 Security/Conformidades/Conformidade Serviços Financeiros/KNF (Polonia).md"
+    "08 Security/OWASP/Secure_SDLC_Cheat_Sheet.md",
+    "08 Security/OWASP/Web_Service_Security_Testing_Cheat_Sheet.md",
+    "08 Security/OWASP/Web_Application_Security_Testing_Cheat_Sheet.md",
+    "08 Security/OWASP/Security_Testing_Cheat_Sheet.md",
+    "08 Security/OWASP/OWASP Top Ten 2021.md",
+    "08 Security/OWASP/Proactive Controls Index.md",
+    "08 Security/OWASP/MASVS Index.md",
+    "08 Security/OWASP/ASVS Index.md",
+    "IBSEC/DSDM.md",
+    "BACEN/COSIF/Sistema COSIF – Consolidado Contábil das Instituições do SFN.md"
   ]
 }

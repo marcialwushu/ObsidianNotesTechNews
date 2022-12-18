@@ -37,3 +37,12 @@ PILARES (CALMS)
 
 CULTURA, AUTOMAÇÃO, LEAN IT, MENSURAÇÃO E COMPARTILHAMENTO
 
+DSOMM - DevSecOps Maturity Model
+PRATICAS SIMPLES DE BCDR  para componentes criticos 
+Gestão de patches
+politica de patch 
+wsus
+
+analise SBOM
+processo de descomissionamento de ativos 
+security champion 
